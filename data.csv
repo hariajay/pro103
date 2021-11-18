@@ -1,0 +1,1014 @@
+date,cases,country,colour
+16/06/2020,43,China,red
+15/06/2020,47,China,red
+14/06/2020,60,China,red
+13/06/2020,12,China,red
+12/06/2020,7,China,red
+11/06/2020,11,China,red
+10/06/2020,4,China,red
+09/06/2020,3,China,red
+08/06/2020,5,China,red
+07/06/2020,9,China,red
+06/06/2020,6,China,red
+05/06/2020,11,China,red
+04/06/2020,1,China,red
+03/06/2020,5,China,red
+02/06/2020,7,China,red
+01/06/2020,19,China,red
+31/05/2020,5,China,red
+30/05/2020,17,China,red
+29/05/2020,0,China,red
+28/05/2020,3,China,red
+27/05/2020,1,China,red
+26/05/2020,7,China,red
+25/05/2020,11,China,red
+24/05/2020,3,China,red
+23/05/2020,2,China,red
+22/05/2020,12,China,red
+21/05/2020,2,China,red
+20/05/2020,2,China,red
+19/05/2020,9,China,red
+18/05/2020,10,China,red
+17/05/2020,6,China,red
+16/05/2020,9,China,red
+15/05/2020,5,China,red
+14/05/2020,6,China,red
+13/05/2020,7,China,red
+12/05/2020,1,China,red
+11/05/2020,19,China,red
+10/05/2020,15,China,red
+09/05/2020,0,China,red
+08/05/2020,6,China,red
+07/05/2020,2,China,red
+06/05/2020,2,China,red
+05/05/2020,2,China,red
+04/05/2020,3,China,red
+03/05/2020,2,China,red
+02/05/2020,3,China,red
+01/05/2020,12,China,red
+30/04/2020,4,China,red
+29/04/2020,2,China,red
+28/04/2020,26,China,red
+27/04/2020,3,China,red
+26/04/2020,10,China,red
+25/04/2020,15,China,red
+24/04/2020,8,China,red
+23/04/2020,12,China,red
+22/04/2020,15,China,red
+21/04/2020,32,China,red
+20/04/2020,14,China,red
+19/04/2020,18,China,red
+18/04/2020,31,China,red
+17/04/2020,352,China,red
+16/04/2020,50,China,red
+15/04/2020,49,China,red
+14/04/2020,94,China,red
+13/04/2020,112,China,red
+12/04/2020,93,China,red
+11/04/2020,79,China,red
+10/04/2020,55,China,red
+09/04/2020,86,China,red
+08/04/2020,86,China,red
+07/04/2020,56,China,red
+06/04/2020,67,China,red
+05/04/2020,48,China,red
+04/04/2020,62,China,red
+03/04/2020,70,China,red
+02/04/2020,100,China,red
+01/04/2020,54,China,red
+31/03/2020,84,China,red
+30/03/2020,98,China,red
+29/03/2020,113,China,red
+28/03/2020,119,China,red
+27/03/2020,94,China,red
+26/03/2020,102,China,red
+25/03/2020,78,China,red
+24/03/2020,69,China,red
+23/03/2020,138,China,red
+22/03/2020,65,China,red
+21/03/2020,52,China,red
+20/03/2020,99,China,red
+19/03/2020,44,China,red
+18/03/2020,23,China,red
+17/03/2020,43,China,red
+16/03/2020,25,China,red
+15/03/2020,22,China,red
+14/03/2020,19,China,red
+13/03/2020,22,China,red
+12/03/2020,24,China,red
+11/03/2020,29,China,red
+10/03/2020,20,China,red
+09/03/2020,45,China,red
+08/03/2020,46,China,red
+07/03/2020,101,China,red
+06/03/2020,170,China,red
+05/03/2020,117,China,red
+04/03/2020,119,China,red
+03/03/2020,127,China,red
+02/03/2020,205,China,red
+01/03/2020,574,China,red
+29/02/2020,428,China,red
+28/02/2020,329,China,red
+27/02/2020,439,China,red
+26/02/2020,410,China,red
+25/02/2020,515,China,red
+24/02/2020,218,China,red
+23/02/2020,647,China,red
+22/02/2020,826,China,red
+21/02/2020,891,China,red
+20/02/2020,394,China,red
+19/02/2020,1750,China,red
+18/02/2020,1890,China,red
+17/02/2020,2052,China,red
+16/02/2020,2007,China,red
+15/02/2020,2538,China,red
+14/02/2020,4156,China,red
+13/02/2020,15141,China,red
+12/02/2020,2028,China,red
+11/02/2020,2490,China,red
+10/02/2020,2974,China,red
+09/02/2020,2607,China,red
+08/02/2020,3418,China,red
+07/02/2020,3160,China,red
+06/02/2020,3727,China,red
+05/02/2020,3872,China,red
+04/02/2020,3237,China,red
+03/02/2020,2812,China,red
+02/02/2020,2590,China,red
+01/02/2020,2095,China,red
+31/01/2020,1980,China,red
+30/01/2020,1740,China,red
+29/01/2020,1466,China,red
+28/01/2020,1753,China,red
+27/01/2020,787,China,red
+26/01/2020,665,China,red
+25/01/2020,441,China,red
+24/01/2020,259,China,red
+23/01/2020,97,China,red
+22/01/2020,140,China,red
+21/01/2020,151,China,red
+20/01/2020,19,China,red
+19/01/2020,136,China,red
+18/01/2020,17,China,red
+17/01/2020,4,China,red
+16/01/2020,0,China,red
+15/01/2020,0,China,red
+14/01/2020,0,China,red
+13/01/2020,0,China,red
+12/01/2020,0,China,red
+11/01/2020,0,China,red
+10/01/2020,0,China,red
+09/01/2020,0,China,red
+08/01/2020,0,China,red
+07/01/2020,0,China,red
+06/01/2020,0,China,red
+05/01/2020,15,China,red
+04/01/2020,0,China,red
+03/01/2020,17,China,red
+02/01/2020,0,China,red
+01/01/2020,0,China,red
+31/12/2019,27,China,red
+16/06/2020,10667,India,blue
+15/06/2020,11502,India,blue
+14/06/2020,11929,India,blue
+13/06/2020,11458,India,blue
+12/06/2020,10956,India,blue
+11/06/2020,9996,India,blue
+10/06/2020,9985,India,blue
+09/06/2020,9987,India,blue
+08/06/2020,9983,India,blue
+07/06/2020,9971,India,blue
+06/06/2020,9887,India,blue
+05/06/2020,9851,India,blue
+04/06/2020,9304,India,blue
+03/06/2020,8909,India,blue
+02/06/2020,8171,India,blue
+01/06/2020,8392,India,blue
+31/05/2020,8380,India,blue
+30/05/2020,7964,India,blue
+29/05/2020,7466,India,blue
+28/05/2020,6566,India,blue
+27/05/2020,6387,India,blue
+26/05/2020,6535,India,blue
+25/05/2020,6977,India,blue
+24/05/2020,6767,India,blue
+23/05/2020,6654,India,blue
+22/05/2020,6088,India,blue
+21/05/2020,5609,India,blue
+20/05/2020,5611,India,blue
+19/05/2020,4970,India,blue
+18/05/2020,5242,India,blue
+17/05/2020,4987,India,blue
+16/05/2020,3970,India,blue
+15/05/2020,3967,India,blue
+14/05/2020,3722,India,blue
+13/05/2020,3525,India,blue
+12/05/2020,3604,India,blue
+11/05/2020,4213,India,blue
+10/05/2020,3277,India,blue
+09/05/2020,3320,India,blue
+08/05/2020,3390,India,blue
+07/05/2020,3561,India,blue
+06/05/2020,2958,India,blue
+05/05/2020,3900,India,blue
+04/05/2020,2553,India,blue
+03/05/2020,2644,India,blue
+02/05/2020,2293,India,blue
+01/05/2020,1993,India,blue
+30/04/2020,1718,India,blue
+29/04/2020,1897,India,blue
+28/04/2020,1543,India,blue
+27/04/2020,1396,India,blue
+26/04/2020,1990,India,blue
+25/04/2020,1429,India,blue
+24/04/2020,1684,India,blue
+23/04/2020,1409,India,blue
+22/04/2020,1384,India,blue
+21/04/2020,1335,India,blue
+20/04/2020,1553,India,blue
+19/04/2020,1334,India,blue
+18/04/2020,991,India,blue
+17/04/2020,1007,India,blue
+16/04/2020,942,India,blue
+15/04/2020,1075,India,blue
+14/04/2020,1211,India,blue
+13/04/2020,796,India,blue
+12/04/2020,909,India,blue
+11/04/2020,1035,India,blue
+10/04/2020,678,India,blue
+09/04/2020,540,India,blue
+08/04/2020,773,India,blue
+07/04/2020,354,India,blue
+06/04/2020,693,India,blue
+05/04/2020,472,India,blue
+04/04/2020,601,India,blue
+03/04/2020,336,India,blue
+02/04/2020,568,India,blue
+01/04/2020,146,India,blue
+31/03/2020,180,India,blue
+30/03/2020,92,India,blue
+29/03/2020,106,India,blue
+28/03/2020,149,India,blue
+27/03/2020,75,India,blue
+26/03/2020,87,India,blue
+25/03/2020,70,India,blue
+24/03/2020,53,India,blue
+23/03/2020,119,India,blue
+22/03/2020,89,India,blue
+21/03/2020,40,India,blue
+20/03/2020,26,India,blue
+19/03/2020,28,India,blue
+18/03/2020,12,India,blue
+17/03/2020,32,India,blue
+16/03/2020,3,India,blue
+15/03/2020,7,India,blue
+14/03/2020,8,India,blue
+13/03/2020,2,India,blue
+12/03/2020,23,India,blue
+11/03/2020,6,India,blue
+10/03/2020,10,India,blue
+08/03/2020,3,India,blue
+07/03/2020,2,India,blue
+06/03/2020,1,India,blue
+05/03/2020,22,India,blue
+04/03/2020,1,India,blue
+03/03/2020,2,India,blue
+02/03/2020,0,India,blue
+01/03/2020,0,India,blue
+29/02/2020,0,India,blue
+28/02/2020,0,India,blue
+27/02/2020,0,India,blue
+26/02/2020,0,India,blue
+25/02/2020,0,India,blue
+24/02/2020,0,India,blue
+23/02/2020,0,India,blue
+22/02/2020,0,India,blue
+21/02/2020,0,India,blue
+20/02/2020,0,India,blue
+19/02/2020,0,India,blue
+18/02/2020,0,India,blue
+17/02/2020,0,India,blue
+16/02/2020,0,India,blue
+15/02/2020,0,India,blue
+14/02/2020,0,India,blue
+13/02/2020,0,India,blue
+12/02/2020,0,India,blue
+11/02/2020,0,India,blue
+10/02/2020,0,India,blue
+09/02/2020,0,India,blue
+08/02/2020,0,India,blue
+07/02/2020,0,India,blue
+06/02/2020,0,India,blue
+05/02/2020,0,India,blue
+04/02/2020,1,India,blue
+03/02/2020,0,India,blue
+02/02/2020,1,India,blue
+01/02/2020,0,India,blue
+31/01/2020,0,India,blue
+30/01/2020,1,India,blue
+29/01/2020,0,India,blue
+28/01/2020,0,India,blue
+27/01/2020,0,India,blue
+26/01/2020,0,India,blue
+25/01/2020,0,India,blue
+24/01/2020,0,India,blue
+23/01/2020,0,India,blue
+22/01/2020,0,India,blue
+21/01/2020,0,India,blue
+20/01/2020,0,India,blue
+19/01/2020,0,India,blue
+18/01/2020,0,India,blue
+17/01/2020,0,India,blue
+16/01/2020,0,India,blue
+15/01/2020,0,India,blue
+14/01/2020,0,India,blue
+13/01/2020,0,India,blue
+12/01/2020,0,India,blue
+11/01/2020,0,India,blue
+10/01/2020,0,India,blue
+09/01/2020,0,India,blue
+08/01/2020,0,India,blue
+07/01/2020,0,India,blue
+06/01/2020,0,India,blue
+05/01/2020,0,India,blue
+04/01/2020,0,India,blue
+03/01/2020,0,India,blue
+02/01/2020,0,India,blue
+01/01/2020,0,India,blue
+31/12/2019,0,India,blue
+16/06/2020,301,Italy,green
+15/06/2020,338,Italy,green
+14/06/2020,346,Italy,green
+13/06/2020,163,Italy,green
+12/06/2020,379,Italy,green
+11/06/2020,202,Italy,green
+10/06/2020,283,Italy,green
+09/06/2020,280,Italy,green
+08/06/2020,197,Italy,green
+07/06/2020,270,Italy,green
+06/06/2020,518,Italy,green
+05/06/2020,177,Italy,green
+04/06/2020,321,Italy,green
+03/06/2020,318,Italy,green
+02/06/2020,178,Italy,green
+01/06/2020,355,Italy,green
+31/05/2020,416,Italy,green
+30/05/2020,516,Italy,green
+29/05/2020,593,Italy,green
+28/05/2020,584,Italy,green
+27/05/2020,397,Italy,green
+26/05/2020,300,Italy,green
+25/05/2020,531,Italy,green
+24/05/2020,669,Italy,green
+23/05/2020,652,Italy,green
+22/05/2020,642,Italy,green
+21/05/2020,665,Italy,green
+20/05/2020,813,Italy,green
+19/05/2020,451,Italy,green
+18/05/2020,675,Italy,green
+17/05/2020,875,Italy,green
+16/05/2020,789,Italy,green
+15/05/2020,992,Italy,green
+14/05/2020,888,Italy,green
+13/05/2020,1402,Italy,green
+12/05/2020,744,Italy,green
+11/05/2020,802,Italy,green
+10/05/2020,1083,Italy,green
+09/05/2020,1327,Italy,green
+08/05/2020,1401,Italy,green
+07/05/2020,1444,Italy,green
+06/05/2020,1075,Italy,green
+05/05/2020,1221,Italy,green
+04/05/2020,1389,Italy,green
+03/05/2020,1900,Italy,green
+02/05/2020,1965,Italy,green
+01/05/2020,1872,Italy,green
+30/04/2020,2086,Italy,green
+29/04/2020,2091,Italy,green
+28/04/2020,1739,Italy,green
+27/04/2020,2324,Italy,green
+26/04/2020,2357,Italy,green
+25/04/2020,3021,Italy,green
+24/04/2020,2646,Italy,green
+23/04/2020,3370,Italy,green
+22/04/2020,2729,Italy,green
+21/04/2020,2256,Italy,green
+20/04/2020,3047,Italy,green
+19/04/2020,3491,Italy,green
+18/04/2020,3493,Italy,green
+17/04/2020,3786,Italy,green
+16/04/2020,2667,Italy,green
+15/04/2020,2972,Italy,green
+14/04/2020,3153,Italy,green
+13/04/2020,4092,Italy,green
+12/04/2020,4694,Italy,green
+11/04/2020,3951,Italy,green
+10/04/2020,4204,Italy,green
+09/04/2020,3836,Italy,green
+08/04/2020,3039,Italy,green
+07/04/2020,3599,Italy,green
+06/04/2020,4316,Italy,green
+05/04/2020,4805,Italy,green
+04/04/2020,4585,Italy,green
+03/04/2020,4668,Italy,green
+02/04/2020,4782,Italy,green
+01/04/2020,4053,Italy,green
+31/03/2020,4050,Italy,green
+30/03/2020,5217,Italy,green
+29/03/2020,5974,Italy,green
+28/03/2020,5959,Italy,green
+27/03/2020,6153,Italy,green
+26/03/2020,5210,Italy,green
+25/03/2020,5249,Italy,green
+24/03/2020,4789,Italy,green
+23/03/2020,5560,Italy,green
+22/03/2020,6557,Italy,green
+21/03/2020,5986,Italy,green
+20/03/2020,5322,Italy,green
+19/03/2020,4207,Italy,green
+18/03/2020,3526,Italy,green
+17/03/2020,4000,Italy,green
+16/03/2020,2823,Italy,green
+15/03/2020,3497,Italy,green
+14/03/2020,2547,Italy,green
+13/03/2020,2651,Italy,green
+12/03/2020,2313,Italy,green
+11/03/2020,977,Italy,green
+10/03/2020,1797,Italy,green
+09/03/2020,1492,Italy,green
+08/03/2020,1247,Italy,green
+07/03/2020,778,Italy,green
+06/03/2020,769,Italy,green
+05/03/2020,587,Italy,green
+04/03/2020,466,Italy,green
+03/03/2020,347,Italy,green
+02/03/2020,561,Italy,green
+01/03/2020,240,Italy,green
+29/02/2020,238,Italy,green
+28/02/2020,250,Italy,green
+27/02/2020,78,Italy,green
+26/02/2020,93,Italy,green
+25/02/2020,97,Italy,green
+24/02/2020,53,Italy,green
+23/02/2020,62,Italy,green
+22/02/2020,14,Italy,green
+21/02/2020,0,Italy,green
+20/02/2020,0,Italy,green
+19/02/2020,0,Italy,green
+18/02/2020,0,Italy,green
+17/02/2020,0,Italy,green
+16/02/2020,0,Italy,green
+15/02/2020,0,Italy,green
+14/02/2020,0,Italy,green
+13/02/2020,0,Italy,green
+12/02/2020,0,Italy,green
+11/02/2020,0,Italy,green
+10/02/2020,0,Italy,green
+09/02/2020,0,Italy,green
+08/02/2020,0,Italy,green
+07/02/2020,0,Italy,green
+06/02/2020,0,Italy,green
+05/02/2020,0,Italy,green
+04/02/2020,0,Italy,green
+03/02/2020,0,Italy,green
+02/02/2020,0,Italy,green
+01/02/2020,0,Italy,green
+31/01/2020,3,Italy,green
+30/01/2020,0,Italy,green
+29/01/2020,0,Italy,green
+28/01/2020,0,Italy,green
+27/01/2020,0,Italy,green
+26/01/2020,0,Italy,green
+25/01/2020,0,Italy,green
+24/01/2020,0,Italy,green
+23/01/2020,0,Italy,green
+22/01/2020,0,Italy,green
+21/01/2020,0,Italy,green
+20/01/2020,0,Italy,green
+19/01/2020,0,Italy,green
+18/01/2020,0,Italy,green
+17/01/2020,0,Italy,green
+16/01/2020,0,Italy,green
+15/01/2020,0,Italy,green
+14/01/2020,0,Italy,green
+13/01/2020,0,Italy,green
+12/01/2020,0,Italy,green
+11/01/2020,0,Italy,green
+10/01/2020,0,Italy,green
+09/01/2020,0,Italy,green
+08/01/2020,0,Italy,green
+07/01/2020,0,Italy,green
+06/01/2020,0,Italy,green
+05/01/2020,0,Italy,green
+04/01/2020,0,Italy,green
+03/01/2020,0,Italy,green
+02/01/2020,0,Italy,green
+01/01/2020,0,Italy,green
+31/12/2019,0,Italy,green
+16/06/2020,85,Japan,yellow
+15/06/2020,73,Japan,yellow
+14/06/2020,47,Japan,yellow
+13/06/2020,50,Japan,yellow
+12/06/2020,40,Japan,yellow
+11/06/2020,41,Japan,yellow
+10/06/2020,41,Japan,yellow
+09/06/2020,36,Japan,yellow
+08/06/2020,33,Japan,yellow
+07/06/2020,38,Japan,yellow
+06/06/2020,39,Japan,yellow
+05/06/2020,46,Japan,yellow
+04/06/2020,32,Japan,yellow
+03/06/2020,56,Japan,yellow
+02/06/2020,46,Japan,yellow
+01/06/2020,33,Japan,yellow
+31/05/2020,47,Japan,yellow
+30/05/2020,85,Japan,yellow
+29/05/2020,68,Japan,yellow
+28/05/2020,0,Japan,yellow
+27/05/2020,28,Japan,yellow
+26/05/2020,42,Japan,yellow
+25/05/2020,31,Japan,yellow
+24/05/2020,14,Japan,yellow
+23/05/2020,23,Japan,yellow
+22/05/2020,89,Japan,yellow
+21/05/2020,39,Japan,yellow
+20/05/2020,20,Japan,yellow
+19/05/2020,60,Japan,yellow
+18/05/2020,20,Japan,yellow
+17/05/2020,48,Japan,yellow
+16/05/2020,44,Japan,yellow
+15/05/2020,114,Japan,yellow
+14/05/2020,55,Japan,yellow
+13/05/2020,150,Japan,yellow
+12/05/2020,76,Japan,yellow
+11/05/2020,51,Japan,yellow
+10/05/2020,119,Japan,yellow
+09/05/2020,81,Japan,yellow
+08/05/2020,84,Japan,yellow
+07/05/2020,109,Japan,yellow
+06/05/2020,123,Japan,yellow
+05/05/2020,174,Japan,yellow
+04/05/2020,218,Japan,yellow
+03/05/2020,295,Japan,yellow
+02/05/2020,263,Japan,yellow
+01/05/2020,193,Japan,yellow
+30/04/2020,236,Japan,yellow
+29/04/2020,276,Japan,yellow
+28/04/2020,191,Japan,yellow
+27/04/2020,203,Japan,yellow
+26/04/2020,290,Japan,yellow
+25/04/2020,652,Japan,yellow
+24/04/2020,468,Japan,yellow
+23/04/2020,276,Japan,yellow
+22/04/2020,378,Japan,yellow
+21/04/2020,367,Japan,yellow
+20/04/2020,390,Japan,yellow
+19/04/2020,566,Japan,yellow
+18/04/2020,628,Japan,yellow
+17/04/2020,585,Japan,yellow
+16/04/2020,482,Japan,yellow
+15/04/2020,455,Japan,yellow
+14/04/2020,390,Japan,yellow
+13/04/2020,507,Japan,yellow
+12/04/2020,1401,Japan,yellow
+11/04/2020,680,Japan,yellow
+10/04/2020,410,Japan,yellow
+09/04/2020,351,Japan,yellow
+08/04/2020,89,Japan,yellow
+07/04/2020,163,Japan,yellow
+06/04/2020,383,Japan,yellow
+05/04/2020,336,Japan,yellow
+04/04/2020,318,Japan,yellow
+03/04/2020,439,Japan,yellow
+02/04/2020,225,Japan,yellow
+01/04/2020,0,Japan,yellow
+31/03/2020,87,Japan,yellow
+30/03/2020,173,Japan,yellow
+29/03/2020,194,Japan,yellow
+28/03/2020,135,Japan,yellow
+27/03/2020,96,Japan,yellow
+26/03/2020,75,Japan,yellow
+25/03/2020,65,Japan,yellow
+24/03/2020,39,Japan,yellow
+23/03/2020,43,Japan,yellow
+22/03/2020,39,Japan,yellow
+21/03/2020,57,Japan,yellow
+20/03/2020,77,Japan,yellow
+19/03/2020,44,Japan,yellow
+18/03/2020,5,Japan,yellow
+17/03/2020,10,Japan,yellow
+16/03/2020,34,Japan,yellow
+15/03/2020,43,Japan,yellow
+14/03/2020,62,Japan,yellow
+13/03/2020,56,Japan,yellow
+12/03/2020,51,Japan,yellow
+11/03/2020,54,Japan,yellow
+10/03/2020,26,Japan,yellow
+09/03/2020,33,Japan,yellow
+08/03/2020,47,Japan,yellow
+07/03/2020,59,Japan,yellow
+06/03/2020,32,Japan,yellow
+05/03/2020,49,Japan,yellow
+04/03/2020,14,Japan,yellow
+03/03/2020,0,Japan,yellow
+02/03/2020,15,Japan,yellow
+01/03/2020,9,Japan,yellow
+29/02/2020,20,Japan,yellow
+28/02/2020,24,Japan,yellow
+27/02/2020,22,Japan,yellow
+26/02/2020,20,Japan,yellow
+25/02/2020,0,Japan,yellow
+24/02/2020,12,Japan,yellow
+23/02/2020,27,Japan,yellow
+22/02/2020,12,Japan,yellow
+21/02/2020,9,Japan,yellow
+20/02/2020,18,Japan,yellow
+19/02/2020,7,Japan,yellow
+18/02/2020,0,Japan,yellow
+17/02/2020,7,Japan,yellow
+16/02/2020,14,Japan,yellow
+15/02/2020,8,Japan,yellow
+14/02/2020,1,Japan,yellow
+13/02/2020,4,Japan,yellow
+12/02/2020,0,Japan,yellow
+11/02/2020,0,Japan,yellow
+10/02/2020,0,Japan,yellow
+09/02/2020,0,Japan,yellow
+08/02/2020,0,Japan,yellow
+07/02/2020,0,Japan,yellow
+06/02/2020,0,Japan,yellow
+05/02/2020,5,Japan,yellow
+04/02/2020,0,Japan,yellow
+03/02/2020,1,Japan,yellow
+02/02/2020,4,Japan,yellow
+01/02/2020,1,Japan,yellow
+31/01/2020,3,Japan,yellow
+30/01/2020,4,Japan,yellow
+29/01/2020,3,Japan,yellow
+28/01/2020,1,Japan,yellow
+27/01/2020,0,Japan,yellow
+26/01/2020,1,Japan,yellow
+25/01/2020,0,Japan,yellow
+24/01/2020,1,Japan,yellow
+23/01/2020,0,Japan,yellow
+22/01/2020,0,Japan,yellow
+21/01/2020,0,Japan,yellow
+20/01/2020,0,Japan,yellow
+19/01/2020,0,Japan,yellow
+18/01/2020,0,Japan,yellow
+17/01/2020,0,Japan,yellow
+16/01/2020,0,Japan,yellow
+15/01/2020,1,Japan,yellow
+14/01/2020,0,Japan,yellow
+13/01/2020,0,Japan,yellow
+12/01/2020,0,Japan,yellow
+11/01/2020,0,Japan,yellow
+10/01/2020,0,Japan,yellow
+09/01/2020,0,Japan,yellow
+08/01/2020,0,Japan,yellow
+07/01/2020,0,Japan,yellow
+06/01/2020,0,Japan,yellow
+05/01/2020,0,Japan,yellow
+04/01/2020,0,Japan,yellow
+03/01/2020,0,Japan,yellow
+02/01/2020,0,Japan,yellow
+01/01/2020,0,Japan,yellow
+31/12/2019,0,Japan,yellow
+16/06/2020,8246,Russia,grey
+15/06/2020,8835,Russia,grey
+14/06/2020,8706,Russia,grey
+13/06/2020,8987,Russia,grey
+12/06/2020,8779,Russia,grey
+11/06/2020,8404,Russia,grey
+10/06/2020,8595,Russia,grey
+09/06/2020,8985,Russia,grey
+08/06/2020,8984,Russia,grey
+07/06/2020,8855,Russia,grey
+06/06/2020,8726,Russia,grey
+05/06/2020,8831,Russia,grey
+04/06/2020,8536,Russia,grey
+03/06/2020,8863,Russia,grey
+02/06/2020,9035,Russia,grey
+01/06/2020,9268,Russia,grey
+31/05/2020,8952,Russia,grey
+30/05/2020,8572,Russia,grey
+29/05/2020,8371,Russia,grey
+28/05/2020,8338,Russia,grey
+27/05/2020,8915,Russia,grey
+26/05/2020,8946,Russia,grey
+25/05/2020,8599,Russia,grey
+24/05/2020,9434,Russia,grey
+23/05/2020,8894,Russia,grey
+22/05/2020,8849,Russia,grey
+21/05/2020,8764,Russia,grey
+20/05/2020,9263,Russia,grey
+19/05/2020,8926,Russia,grey
+18/05/2020,9709,Russia,grey
+17/05/2020,9200,Russia,grey
+16/05/2020,10598,Russia,grey
+15/05/2020,9974,Russia,grey
+14/05/2020,10028,Russia,grey
+13/05/2020,10899,Russia,grey
+12/05/2020,11656,Russia,grey
+11/05/2020,11012,Russia,grey
+10/05/2020,10817,Russia,grey
+09/05/2020,10699,Russia,grey
+08/05/2020,11231,Russia,grey
+07/05/2020,10559,Russia,grey
+06/05/2020,10102,Russia,grey
+05/05/2020,10581,Russia,grey
+04/05/2020,10633,Russia,grey
+03/05/2020,9623,Russia,grey
+02/05/2020,7933,Russia,grey
+01/05/2020,7099,Russia,grey
+30/04/2020,5841,Russia,grey
+29/04/2020,6411,Russia,grey
+28/04/2020,6198,Russia,grey
+27/04/2020,6361,Russia,grey
+26/04/2020,5966,Russia,grey
+25/04/2020,5849,Russia,grey
+24/04/2020,4774,Russia,grey
+23/04/2020,5236,Russia,grey
+22/04/2020,5642,Russia,grey
+21/04/2020,4268,Russia,grey
+20/04/2020,6060,Russia,grey
+19/04/2020,4785,Russia,grey
+18/04/2020,4070,Russia,grey
+17/04/2020,3448,Russia,grey
+16/04/2020,3388,Russia,grey
+15/04/2020,2774,Russia,grey
+14/04/2020,2558,Russia,grey
+13/04/2020,2186,Russia,grey
+12/04/2020,1667,Russia,grey
+11/04/2020,1786,Russia,grey
+10/04/2020,1459,Russia,grey
+09/04/2020,1175,Russia,grey
+08/04/2020,1154,Russia,grey
+07/04/2020,954,Russia,grey
+06/04/2020,658,Russia,grey
+05/04/2020,582,Russia,grey
+04/04/2020,601,Russia,grey
+03/04/2020,771,Russia,grey
+02/04/2020,440,Russia,grey
+01/04/2020,501,Russia,grey
+31/03/2020,302,Russia,grey
+30/03/2020,270,Russia,grey
+29/03/2020,228,Russia,grey
+28/03/2020,196,Russia,grey
+27/03/2020,182,Russia,grey
+26/03/2020,163,Russia,grey
+25/03/2020,57,Russia,grey
+24/03/2020,0,Russia,grey
+23/03/2020,132,Russia,grey
+22/03/2020,53,Russia,grey
+21/03/2020,54,Russia,grey
+20/03/2020,52,Russia,grey
+19/03/2020,33,Russia,grey
+18/03/2020,21,Russia,grey
+17/03/2020,30,Russia,grey
+16/03/2020,4,Russia,grey
+15/03/2020,14,Russia,grey
+14/03/2020,15,Russia,grey
+13/03/2020,5,Russia,grey
+12/03/2020,15,Russia,grey
+11/03/2020,0,Russia,grey
+10/03/2020,0,Russia,grey
+09/03/2020,0,Russia,grey
+08/03/2020,0,Russia,grey
+07/03/2020,6,Russia,grey
+06/03/2020,0,Russia,grey
+05/03/2020,0,Russia,grey
+04/03/2020,1,Russia,grey
+03/03/2020,1,Russia,grey
+02/03/2020,0,Russia,grey
+01/03/2020,0,Russia,grey
+29/02/2020,0,Russia,grey
+28/02/2020,0,Russia,grey
+27/02/2020,0,Russia,grey
+26/02/2020,0,Russia,grey
+25/02/2020,0,Russia,grey
+24/02/2020,0,Russia,grey
+23/02/2020,0,Russia,grey
+22/02/2020,0,Russia,grey
+21/02/2020,0,Russia,grey
+20/02/2020,0,Russia,grey
+19/02/2020,0,Russia,grey
+18/02/2020,0,Russia,grey
+17/02/2020,0,Russia,grey
+16/02/2020,0,Russia,grey
+15/02/2020,0,Russia,grey
+14/02/2020,0,Russia,grey
+13/02/2020,0,Russia,grey
+12/02/2020,0,Russia,grey
+11/02/2020,0,Russia,grey
+10/02/2020,0,Russia,grey
+09/02/2020,0,Russia,grey
+08/02/2020,0,Russia,grey
+07/02/2020,0,Russia,grey
+06/02/2020,0,Russia,grey
+05/02/2020,0,Russia,grey
+04/02/2020,0,Russia,grey
+03/02/2020,0,Russia,grey
+02/02/2020,0,Russia,grey
+01/02/2020,2,Russia,grey
+31/01/2020,0,Russia,grey
+30/01/2020,0,Russia,grey
+29/01/2020,0,Russia,grey
+28/01/2020,0,Russia,grey
+27/01/2020,0,Russia,grey
+26/01/2020,0,Russia,grey
+25/01/2020,0,Russia,grey
+24/01/2020,0,Russia,grey
+23/01/2020,0,Russia,grey
+22/01/2020,0,Russia,grey
+21/01/2020,0,Russia,grey
+20/01/2020,0,Russia,grey
+19/01/2020,0,Russia,grey
+18/01/2020,0,Russia,grey
+17/01/2020,0,Russia,grey
+16/01/2020,0,Russia,grey
+15/01/2020,0,Russia,grey
+14/01/2020,0,Russia,grey
+13/01/2020,0,Russia,grey
+12/01/2020,0,Russia,grey
+11/01/2020,0,Russia,grey
+10/01/2020,0,Russia,grey
+09/01/2020,0,Russia,grey
+08/01/2020,0,Russia,grey
+07/01/2020,0,Russia,grey
+06/01/2020,0,Russia,grey
+05/01/2020,0,Russia,grey
+04/01/2020,0,Russia,grey
+03/01/2020,0,Russia,grey
+02/01/2020,0,Russia,grey
+01/01/2020,0,Russia,grey
+31/12/2019,0,Russia,grey
+16/06/2020,19957,United States of America,orange
+15/06/2020,19543,United States of America,orange
+14/06/2020,25540,United States of America,orange
+13/06/2020,25639,United States of America,orange
+12/06/2020,22883,United States of America,orange
+11/06/2020,20614,United States of America,orange
+10/06/2020,18665,United States of America,orange
+09/06/2020,18822,United States of America,orange
+08/06/2020,22302,United States of America,orange
+07/06/2020,22223,United States of America,orange
+06/06/2020,25178,United States of America,orange
+05/06/2020,21140,United States of America,orange
+04/06/2020,19699,United States of America,orange
+03/06/2020,20544,United States of America,orange
+02/06/2020,21086,United States of America,orange
+01/06/2020,19807,United States of America,orange
+31/05/2020,23297,United States of America,orange
+30/05/2020,25337,United States of America,orange
+29/05/2020,21817,United States of America,orange
+28/05/2020,18721,United States of America,orange
+27/05/2020,18910,United States of America,orange
+26/05/2020,19064,United States of America,orange
+25/05/2020,20568,United States of America,orange
+24/05/2020,21236,United States of America,orange
+23/05/2020,24147,United States of America,orange
+22/05/2020,25434,United States of America,orange
+21/05/2020,23285,United States of America,orange
+20/05/2020,19970,United States of America,orange
+19/05/2020,21841,United States of America,orange
+18/05/2020,18873,United States of America,orange
+17/05/2020,24487,United States of America,orange
+16/05/2020,25508,United States of America,orange
+15/05/2020,27143,United States of America,orange
+14/05/2020,20782,United States of America,orange
+13/05/2020,22048,United States of America,orange
+12/05/2020,18117,United States of America,orange
+11/05/2020,20258,United States of America,orange
+10/05/2020,25612,United States of America,orange
+09/05/2020,26957,United States of America,orange
+08/05/2020,28369,United States of America,orange
+07/05/2020,24128,United States of America,orange
+06/05/2020,23841,United States of America,orange
+05/05/2020,22593,United States of America,orange
+04/05/2020,24972,United States of America,orange
+03/05/2020,29288,United States of America,orange
+02/05/2020,33955,United States of America,orange
+01/05/2020,29917,United States of America,orange
+30/04/2020,27326,United States of America,orange
+29/04/2020,24132,United States of America,orange
+28/04/2020,22541,United States of America,orange
+27/04/2020,26857,United States of America,orange
+26/04/2020,48529,United States of America,orange
+25/04/2020,21352,United States of America,orange
+24/04/2020,26543,United States of America,orange
+23/04/2020,17588,United States of America,orange
+22/04/2020,37289,United States of America,orange
+21/04/2020,28065,United States of America,orange
+20/04/2020,24601,United States of America,orange
+19/04/2020,32922,United States of America,orange
+18/04/2020,30833,United States of America,orange
+17/04/2020,31667,United States of America,orange
+16/04/2020,30148,United States of America,orange
+15/04/2020,26922,United States of America,orange
+14/04/2020,25023,United States of America,orange
+13/04/2020,27620,United States of America,orange
+12/04/2020,28391,United States of America,orange
+11/04/2020,35527,United States of America,orange
+10/04/2020,33901,United States of America,orange
+09/04/2020,33323,United States of America,orange
+08/04/2020,30613,United States of America,orange
+07/04/2020,30561,United States of America,orange
+06/04/2020,25398,United States of America,orange
+05/04/2020,34272,United States of America,orange
+04/04/2020,32425,United States of America,orange
+03/04/2020,28819,United States of America,orange
+02/04/2020,27103,United States of America,orange
+01/04/2020,24998,United States of America,orange
+31/03/2020,21595,United States of America,orange
+30/03/2020,18360,United States of America,orange
+29/03/2020,19979,United States of America,orange
+28/03/2020,18695,United States of America,orange
+27/03/2020,16797,United States of America,orange
+26/03/2020,13963,United States of America,orange
+25/03/2020,8789,United States of America,orange
+24/03/2020,11236,United States of America,orange
+23/03/2020,8459,United States of America,orange
+22/03/2020,7123,United States of America,orange
+21/03/2020,5374,United States of America,orange
+20/03/2020,4835,United States of America,orange
+19/03/2020,2988,United States of America,orange
+18/03/2020,1766,United States of America,orange
+17/03/2020,887,United States of America,orange
+16/03/2020,823,United States of America,orange
+15/03/2020,777,United States of America,orange
+14/03/2020,511,United States of America,orange
+13/03/2020,351,United States of America,orange
+12/03/2020,287,United States of America,orange
+11/03/2020,271,United States of America,orange
+10/03/2020,200,United States of America,orange
+09/03/2020,121,United States of America,orange
+08/03/2020,95,United States of America,orange
+07/03/2020,105,United States of America,orange
+06/03/2020,74,United States of America,orange
+05/03/2020,34,United States of America,orange
+04/03/2020,22,United States of America,orange
+03/03/2020,14,United States of America,orange
+02/03/2020,20,United States of America,orange
+01/03/2020,3,United States of America,orange
+29/02/2020,6,United States of America,orange
+28/02/2020,1,United States of America,orange
+27/02/2020,6,United States of America,orange
+26/02/2020,0,United States of America,orange
+25/02/2020,18,United States of America,orange
+24/02/2020,0,United States of America,orange
+23/02/2020,0,United States of America,orange
+22/02/2020,19,United States of America,orange
+21/02/2020,1,United States of America,orange
+20/02/2020,0,United States of America,orange
+19/02/2020,0,United States of America,orange
+18/02/2020,0,United States of America,orange
+17/02/2020,0,United States of America,orange
+16/02/2020,0,United States of America,orange
+15/02/2020,0,United States of America,orange
+14/02/2020,1,United States of America,orange
+13/02/2020,1,United States of America,orange
+12/02/2020,0,United States of America,orange
+11/02/2020,1,United States of America,orange
+10/02/2020,0,United States of America,orange
+09/02/2020,0,United States of America,orange
+08/02/2020,0,United States of America,orange
+07/02/2020,0,United States of America,orange
+06/02/2020,1,United States of America,orange
+05/02/2020,0,United States of America,orange
+04/02/2020,0,United States of America,orange
+03/02/2020,3,United States of America,orange
+02/02/2020,1,United States of America,orange
+01/02/2020,1,United States of America,orange
+31/01/2020,1,United States of America,orange
+30/01/2020,0,United States of America,orange
+29/01/2020,0,United States of America,orange
+28/01/2020,0,United States of America,orange
+27/01/2020,3,United States of America,orange
+26/01/2020,0,United States of America,orange
+25/01/2020,1,United States of America,orange
+24/01/2020,0,United States of America,orange
+23/01/2020,0,United States of America,orange
+22/01/2020,0,United States of America,orange
+21/01/2020,1,United States of America,orange
+20/01/2020,0,United States of America,orange
+19/01/2020,0,United States of America,orange
+18/01/2020,0,United States of America,orange
+17/01/2020,0,United States of America,orange
+16/01/2020,0,United States of America,orange
+15/01/2020,0,United States of America,orange
+14/01/2020,0,United States of America,orange
+13/01/2020,0,United States of America,orange
+12/01/2020,0,United States of America,orange
+11/01/2020,0,United States of America,orange
+10/01/2020,0,United States of America,orange
+09/01/2020,0,United States of America,orange
+08/01/2020,0,United States of America,orange
+07/01/2020,0,United States of America,orange
+06/01/2020,0,United States of America,orange
+05/01/2020,0,United States of America,orange
+04/01/2020,0,United States of America,orange
+03/01/2020,0,United States of America,orange
+02/01/2020,0,United States of America,orange
+01/01/2020,0,United States of America,orange
+31/12/2019,0,United States of America,orange
